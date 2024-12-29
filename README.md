@@ -1,2 +1,2 @@
-  #remote-repo
- My repository for learning git
+#remote-repo
+My repository for learning git    
